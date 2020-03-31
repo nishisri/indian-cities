@@ -6,10 +6,6 @@
 * Test framework - Pytest
 * Build tool - Pyenv
 
-## How to start the application:
-To run the test simply run the command -   **python indian-cities-test.py**
-This application assumes that Python3 already installed in the system also it assumes that Pytest and requests are also installed.
-
 
 ##Summary: 
 I have selected API service "Indian cities" and created automation test as mentioned below:
